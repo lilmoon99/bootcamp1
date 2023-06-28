@@ -1,0 +1,15 @@
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\bin\Debug\net6.0\Урок 3. Big O Notation.exe
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\bin\Debug\net6.0\Урок 3. Big O Notation.deps.json
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\bin\Debug\net6.0\Урок 3. Big O Notation.runtimeconfig.json
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\bin\Debug\net6.0\Урок 3. Big O Notation.dll
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\bin\Debug\net6.0\Урок 3. Big O Notation.pdb
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\Урок 3. Big O Notation.csproj.AssemblyReference.cache
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\Урок 3. Big O Notation.GeneratedMSBuildEditorConfig.editorconfig
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\Урок 3. Big O Notation.AssemblyInfoInputs.cache
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\Урок 3. Big O Notation.AssemblyInfo.cs
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\Урок 3. Big O Notation.csproj.CoreCompileInputs.cache
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\Урок 3. Big O Notation.dll
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\refint\Урок 3. Big O Notation.dll
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\Урок 3. Big O Notation.pdb
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\Урок 3. Big O Notation.genruntimeconfig.cache
+F:\Study\Quarter 1\Буткемп. Программирование\Урок 3. Big O Notation\obj\Debug\net6.0\ref\Урок 3. Big O Notation.dll
